@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCreditCardInput(Morr Assignment)</string>
+    <string name="card_number">card number</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="security_code">Security code</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="submit_payment">SUBMIT PAYMENT</string>
+</resources>
